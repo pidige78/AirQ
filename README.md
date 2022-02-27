@@ -12,16 +12,16 @@ With the rise of COVID-19 and Air pollution, people are now more concern about t
 ## :hourglass_flowing_sand: Dataset
 The raw and cleaned dataset is uploaded in the ``` ./Data/``` folder and you can download the files from below link too.
 - [Raw Data](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/Data/city_hour.csv)
-- [Cleaned Data](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/AQI/Data/final_data.csv)
+- [Cleaned Data](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/Data/final_data.csv)
 
 ## :cloud: Machine Learning Models
 Below are the machine learning models used for this project
-- [Linear Regression](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/AQI/models/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
-- [Lasso Regression](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/AQI/models/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
-- [Decision Tree Regressor](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/AQI/models/3.%20Implementing%20Decision%20Tree.ipynb)
-- [XGBoost Algorithm](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/AQI/models/4.%20Implementing%20XGBoost%20for%20Regression.ipynb)
-- [Random Forest Classifier](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/AQI/models/6.%20Implementing%20Random%20Forest%20Classifier%20(Part%202).ipynb)
-- [Artificial Neural Network](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/AQI/models/7.%20Implementing%20ANN.ipynb)
+- [Linear Regression](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/models/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
+- [Lasso Regression](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/models/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
+- [Decision Tree Regressor](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/models/3.%20Implementing%20Decision%20Tree.ipynb)
+- [XGBoost Algorithm](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/models/4.%20Implementing%20XGBoost%20for%20Regression.ipynb)
+- [Random Forest Classifier](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/models/6.%20Implementing%20Random%20Forest%20Classifier%20(Part%202).ipynb)
+- [Artificial Neural Network](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/models/7.%20Implementing%20ANN.ipynb)
 
 ## :hammer_and_wrench: Requirements
 - Python 3.5+
