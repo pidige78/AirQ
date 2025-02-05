@@ -3,6 +3,8 @@ import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
 
+from explore_page import show_explore_page
+from prediction import show_predict_page
 
 def load_lottieurl(url: str):
     r = requests.get(url)
